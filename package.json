@@ -2,7 +2,7 @@
   "name": "discord-vr",
   "version": "1.0.2-b",
   "description": "A package designed for Discord Bot developers willing to add vote rewards function to their bot!",
-  "main": "src/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
@@ -28,6 +28,6 @@
     "express": "^4.17.1",
     "quick.db": "^7.0.0-b22"
   },
-  "types": "./src/Typings/index.d.ts",
+  "types": "./Typings/index.d.ts",
   "homepage": "https://discord-vr.js.org"
 }
