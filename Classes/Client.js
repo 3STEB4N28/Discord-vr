@@ -1,5 +1,5 @@
 const db = require("quick.db");
-const p = require("../../src/index.js");
+const p = require("../index.js");
 const { EventEmitter } = require("events");
 const express = require("express");
 const app = express();
