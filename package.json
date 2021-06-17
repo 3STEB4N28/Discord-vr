@@ -1,0 +1,33 @@
+{
+  "name": "discord-vr",
+  "version": "1.0.2-b",
+  "description": "A package designed for Discord Bot developers willing to add vote rewards function to their bot!",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+      "type": "git",
+      "url": ""
+  },
+  "keywords": [
+    "Discord",
+    "DiscordVR",
+    "vote",
+    "rewards",
+    "vote-rewards",
+    "discord"
+  ],
+  "author": "3STEB4N28 support@3steb4n28.xyz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "quick.db": "^7.0.0-b22"
+  },
+  "types": "./src/Typings/index.d.ts",
+  "homepage": "https://discord-vr.js.org"
+}
