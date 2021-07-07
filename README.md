@@ -1,6 +1,6 @@
 # Discord-VR
 **Discord-VR** is a package written in **JavaScript** willing to help in the development of **Discord Bots**!
-
+---
 ## Example Usage
 ```js
 const { Client } = require('discord.js');
@@ -30,6 +30,7 @@ Now, in order for this to work, you need to know your server's URl, most of the 
 This package requires `quick.db@^7.0.0-b22` in order to work properly, the package includes this by itself, please do not install any other version or else the package will error!
 
 For further help visit the [Documentation](https://discord-vr.js.org) or join the [Support Server](https://discord.gg/XjZsnZVurC)
+---
 ## Credits
 - **Main Developer**: [3STEB4N28](https://github.com/3STEB4N28/3STEB4N28)
 - **Co Developer**: [LostNuke](https://github.com/LostNuke/LostNuke)
